@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-I'm **Amine Rakib**, a passionate learner and aspiring quantitative researcher.  
+I'm **Amine Rakib**, a passionate learner.
 
 🎓 **Education**  
 - Final-year student at **CentraleSupélec**, specializing in Computer Science and Applied Mathematics  
